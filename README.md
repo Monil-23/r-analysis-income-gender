@@ -4,6 +4,9 @@
 
 This project investigates income inequality based on **sex-related differences** using data from the **National Longitudinal Survey of Youth 1997 (NLSY97)**. The analysis is performed using **R** and includes data preprocessing, exploratory analysis, hypothesis testing, and linear regression modeling.
 
+
+📄 [Click here to download the HTML report](./Data_Analysis.html)
+
 ---
 
 ## 📁 Files Included
